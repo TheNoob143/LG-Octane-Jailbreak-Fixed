@@ -1,3 +1,4 @@
+#Basic Specs
 
 Display 	2.6 in   diagonal, 4:3
 
@@ -17,7 +18,6 @@ Storage 	120 MB available to user
 
 Expandable via memory card
 
---
 
 3 megapixel camera
 
@@ -25,7 +25,6 @@ fixed-focus, flash
 
 panorama, smile detection
 
---
 
 Video: QVGA (320 x 240)
 
