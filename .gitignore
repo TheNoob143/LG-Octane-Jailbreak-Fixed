@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python / scripts
+__pycache__/
+*.pyc
+*.pyo
+
+# Binary dumps, images, or firmware (do NOT commit real firmware)
+*.bin
+*.img
+*.raw
+*.dmp
+*.zip
+
+# Editor / IDE files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Ghidra / reverse engineering projects
+*.gpr
+*.rep
+*.cmt
+
+# Logs / temporary files
+*.log
+*.tmp
