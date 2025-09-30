@@ -2,7 +2,7 @@
 
 ## Why I’m Doing This
 Explain what you’re trying to figure out or test.
-- Example: See if Doom could maybe run on the LG Octane emulator.
+- at a later time to find vunarbilites that allow me to have rased access
 
 ## Stuff I Used 
 I used a 32gb sd card to test the mass storage
