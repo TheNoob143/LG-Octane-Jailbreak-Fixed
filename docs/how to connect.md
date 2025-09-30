@@ -23,11 +23,13 @@ Look under Portable Devices or COM Ports.
 Step 3: Choose the mode on the phone
 
 Some LG feature phones prompt for USB mode:
+
 Mass Storage / File Transfer → safest mode for copying files.
 
 Avoid “PC Sync” or “Flashing” modes unless you are experienced.
 
 No SD card is required for connecting and exploring internal storage.
+
 --
 Step 4: Open BitPim
 
