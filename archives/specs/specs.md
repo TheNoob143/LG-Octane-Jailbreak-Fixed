@@ -1,3 +1,4 @@
+--
 Display 	2.6 in   diagonal, 4:3
 QVGA   320 x 240 pixels
 154 ppi   approx.
@@ -8,10 +9,12 @@ Standby: 340 hours max.
 Processor 	Unknowen
 Storage 	120 MB available to user
 Expandable via memory card
+--
 
 3 megapixel camera
 fixed-focus, flash
 panorama, smile detection
+--
 
 Video: QVGA (320 x 240)
 Weight 	4.5 oz   128 g
@@ -21,3 +24,4 @@ Network Bands
 CDMA: 850, 1900
 Data Technology 	EVDO r0
 Phone Book Capacity 	1000
+--
