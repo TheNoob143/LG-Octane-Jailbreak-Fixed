@@ -14,12 +14,13 @@ Standby: 340 hours max.
 
 Processor 	Unknowen
 
-Specs
---
 Storage 	120 MB available to user
 
 Expandable via memory card
 
+
+Camera
+--
 
 3 megapixel camera
 
