@@ -1,4 +1,4 @@
-1. lg octane 
+1. lg octane
 --
 2. internet
 --
