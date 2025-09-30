@@ -28,6 +28,8 @@ fixed-focus, flash
 
 panorama, smile detection
 
+Misc Specs
+--
 
 Video: QVGA (320 x 240)
 
@@ -44,5 +46,3 @@ CDMA: 850, 1900
 Data Technology 	EVDO r0
 
 Phone Book Capacity 	1000
-
---
