@@ -1,4 +1,4 @@
---
+
 Display 	2.6 in   diagonal, 4:3
 QVGA   320 x 240 pixels
 154 ppi   approx.
