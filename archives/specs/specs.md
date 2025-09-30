@@ -1,4 +1,4 @@
-#Basic Specs
+Basic Specs
 --
 Display 	2.6 in   diagonal, 4:3
 
