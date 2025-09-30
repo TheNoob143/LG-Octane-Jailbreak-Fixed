@@ -3,15 +3,14 @@ QVGA   320 x 240 pixels
 154 ppi   approx.
 Type: LCD (TFT/TFD)
 Battery 	950 mAh
-Removable
 Talk: 6.3 hours max.
 Standby: 340 hours max.
-Processor 	?
+Processor 	Unknowen
 Storage 	120 MB available to user
 Expandable via memory card
-Cameras 	
+
 --
-3 megapixel
+3 megapixel camera
 fixed-focus, flash
 panorama, smile detection
 --
