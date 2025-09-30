@@ -1,27 +1,46 @@
 
 Display 	2.6 in   diagonal, 4:3
+
 QVGA   320 x 240 pixels
-154 ppi   approx.
+
 Type: LCD (TFT/TFD)
+
 Battery 	950 mAh
+
 Talk: 6.3 hours max.
+
 Standby: 340 hours max.
+
 Processor 	Unknowen
+
 Storage 	120 MB available to user
+
 Expandable via memory card
+
 --
 
 3 megapixel camera
+
 fixed-focus, flash
+
 panorama, smile detection
+
 --
 
 Video: QVGA (320 x 240)
+
 Weight 	4.5 oz   128 g
+
 Dimensions 	4.21 x 2.16 x 0.63 in   107 x 55 x 16 mm
+
 OS / Platform 	(proprietary)
+
 Network Bands
+
 CDMA: 850, 1900
+
 Data Technology 	EVDO r0
+
 Phone Book Capacity 	1000
+
 --
