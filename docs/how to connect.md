@@ -1,6 +1,8 @@
 Step 1: Choose the computer
 Use your Windows PC for this step.
+
 Reason: LG/Qualcomm USB drivers, BitPim, and QPST/LGNPST run natively on Windows.
+
 Linux (Arch) will be used later for analysis of dumps or firmware, not direct phone connection.
 --
 Step 2: Install drivers on Windows
