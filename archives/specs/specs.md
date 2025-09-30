@@ -9,11 +9,10 @@ Processor 	Unknowen
 Storage 	120 MB available to user
 Expandable via memory card
 
---
 3 megapixel camera
 fixed-focus, flash
 panorama, smile detection
---
+
 Video: QVGA (320 x 240)
 Weight 	4.5 oz   128 g
 Dimensions 	4.21 x 2.16 x 0.63 in   107 x 55 x 16 mm
