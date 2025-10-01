@@ -1,4 +1,4 @@
-# [30/09/2025] — [New Sd Card ]
+# [09/30/2025] — [New Sd Card ]
 
 ## Why I’m Doing This
 Explain what you’re trying to figure out or test.
